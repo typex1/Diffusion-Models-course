@@ -1,1 +1,1 @@
-# Diffusion-Models-course
+# Diffusion Models course
